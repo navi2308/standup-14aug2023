@@ -1,0 +1,17 @@
+##
+
+
+GET http://localhost:3000/ HTTP/1.1
+
+
+## Post
+
+### Post 
+PATCH http://localhost:3000/2 HTTP/1.1
+Content-Type: application/json
+
+{
+    "name":"jsdlfj",
+    "email":"na@vaj.com",
+    "age":23
+}

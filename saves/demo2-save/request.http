@@ -1,0 +1,8 @@
+
+## Get item with id 1
+GET http://localhost:3000/f HTTP/1.1
+
+
+### Query params
+
+GET http://localhost:3000/q?year=2000&age=4&name=navi

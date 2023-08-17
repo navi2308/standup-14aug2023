@@ -1,0 +1,15 @@
+### Create request
+
+GET http://localhost:3000/ HTTP/1.1
+
+
+
+### Post 
+POST http://localhost:3000 HTTP/1.1
+Content-Type: application/json
+
+{
+    "name":"string",
+    "email":"navi@gmail.com",
+    "age":23
+}
